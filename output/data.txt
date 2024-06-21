@@ -1,0 +1,10 @@
+		DETAILS
+		1 ENTRY
+First name :-hello 
+Last name:- mahatma
+Age:- 175
+Mobile no.:- 8754123
+House no.:- ffffff
+City:- sabarmati
+State:- gijarat
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~

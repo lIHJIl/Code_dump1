@@ -70,7 +70,7 @@ taking:
     }
     else
     {
-        printf("\nEnter correct Choice PLZZZ\n");
+        printf("\nEnter correct Choice PLZ\n");
         goto taking;
     }
 
