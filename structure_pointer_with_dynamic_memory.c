@@ -47,7 +47,7 @@ start:
         {
             for (int i = 0; i < n; i++)
             {
-                printf("Details of %d book", i + 1);
+                printf("Details of %d book\n", i + 1);
                 printf("Book id :- %d \n", b[i].bid);
                 printf("Book name of %d is  :- %s\n", b[i].bid, b[i].bname);
                 printf("The price of %s is %d\n", b[i].bname, b[i].price);

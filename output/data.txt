@@ -1,10 +1,19 @@
 		DETAILS
 		1 ENTRY
-First name :-hello 
-Last name:- mahatma
-Age:- 175
-Mobile no.:- 8754123
-House no.:- ffffff
-City:- sabarmati
-State:- gijarat
+First name :-gojo 
+Last name:- zenin
+Age:- 27
+Mobile no.:- 166391997
+House no.:- 8/5
+City:- ahmedabad
+State:- gujarat
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+		2 ENTRY
+First name :-monkey 
+Last name:- luffy
+Age:- 18
+Mobile no.:- 1042606949
+House no.:- 9/88
+City:- ujjain
+State:- MP
 -~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~

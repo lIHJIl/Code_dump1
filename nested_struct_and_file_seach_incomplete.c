@@ -14,7 +14,7 @@ struct info
     long int mobno;
     struct address add;
 };
-int search(char[10],struct info,int,int);
+int search(char[10], struct info, int, int);
 int main()
 {
     FILE *fptr;
@@ -78,32 +78,25 @@ int main()
     }
     printf("\tData saved successfully!\n\n");
     fclose(fptr);
-    
 
-    // search
-    search:
+// search
+search:
     fflush(stdin);
     char ch;
     int op;
     printf("Search for an entry? Y or N");
-    scanf("%c",&ch);
-    if(ch=='y'||ch=='Y')
+    scanf("%c", &ch);
+    if (ch == 'y' || ch == 'Y')
     {
         printf("Search by:- \n1.first name\n2.Last name\n3.Age\n4.City name\n5. Mobile no\n6.city\n7.state:-\n");
-        scanf("%d",&op);
+        scanf("%d", &op);
         char sr[10];
-        if(op==1)
+        if (op == 1)
         {
             gets(sr);
-
         }
-
     }
-    
 }
-int search(char ele[10],struct  info,int limit,int choice )
+int search(char ele[10], struct info, int limit, int choice)
 {
-    
-
-    
 }
